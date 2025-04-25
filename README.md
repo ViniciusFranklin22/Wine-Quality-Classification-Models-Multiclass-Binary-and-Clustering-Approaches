@@ -1,0 +1,2 @@
+# Wine-Quality-Classification-Models-Multiclass-Binary-and-Clustering-Approaches
+This repository contains a comprehensive study on wine quality classification (red and white) using multiple Machine Learning strategies: One-vs-One, One-vs-All, and Clustering into 3 classes. Several algorithms were applied, including KNN, Naive Bayes, SVM, Logistic Regression, Decision Tree, Random Forest, and Neural Networks.
